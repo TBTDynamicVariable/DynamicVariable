@@ -1,0 +1,12 @@
+Last edited: 11/26/2018
+Markitability for project.
+*****************************************************
+// Concise clear description targeted towards the class of potential users
+Dynamic variable is a mathbased game meant to be utilized by both students wanting to develop their skills, parents teaching their kids various math skills, and competitive nerds
+
+
+// Have info on how project design conforms with potential use of the project
+
+// Potentially upload the project to google play store for extra credit
+
+

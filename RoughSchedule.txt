@@ -1,0 +1,45 @@
+Schedule/Timeline:
+
+Group formed: Wednesday, November 14th, 2018
+- Information:
+	Team Name: Dynamic Variable
+	App Name: Math++
+	User will have 1.5 minutes to get as many mathematical questions right as possible. (Ex. 2*12, after 3-12). 
+	Will be presented with a scoreboard. 
+
+	Team Members: 
+	Kevin Delgado U73666183 kevry
+	Luke Staib U39863533 ljstaib
+	Hongcheng Mao U88091347 hmao1
+	Myles Lewis U51288538 mglewis 
+	
+	Task Distribution: 
+	Luke - GUI
+	Kevin - Processing
+	Hongcheng - Interface
+	Myles - Lead/Documentation
+	
+*First progress meeting: Week of November 30th, 2018
+ - Purpose:
+	* Discuss progress on each part: confirm how far everyone has got, Discuss functionallity of app
+	* Set deadlines for following week
+	* Discuss working skeleton app goal time of Monday, December 10, 2018
+	* (Other, probably)
+	* Meeting results: Next week we want to have user interface layout, and atleast algoritmic completion of the game part of the app. Additionally, instructions should be written, as we well as a navigation between the main screen and the instructions. 
+	
+*Second progress meeting: Week of December 7th, 2018
+- Purpose:
+	* Interact with final app, decide which final features to include
+	* Ensure any unfinished part gets completed, focus fire on that
+	* (Other, probably)
+	
+
+	
+Final project due: Wednesday, December 12th, 10:00pm, 2018
+- Requirements:	
+	* Documentation for each part of the project
+	* All code for the project, including instructions for how to compile and run code
+		- Include test conditions
+	* A maximum three minute video presentation of the project in action, including architecture, development, target audience, and use
+	* Perhaps have a project demo session
+	
