@@ -16,10 +16,37 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Game" />
-        <activity android:name=".Leaderboard" />
-        <activity android:name=".MySettings" />
-        <activity android:name=".Instructions"></activity>
+
+        <activity android:name=".Game"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"></meta-data>
+        </activity>
+
+        <activity android:name=".Leaderboard"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"></meta-data>
+
+        </activity>
+        <activity android:name=".MySettings"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"></meta-data>
+
+
+        </activity>
+
+        <activity android:name=".Instructions"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"></meta-data>
+
+        </activity>
     </application>
 
 </manifest>

@@ -32,11 +32,11 @@ private Button toMain;
         });
     }
     public void openMain(){
-        Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);
+        finish();
     }
     public void openGame(){
         Intent intent = new Intent(this, Game.class);
+        finish();
         startActivity(intent);
     }
 }

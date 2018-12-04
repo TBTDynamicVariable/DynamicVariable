@@ -55,8 +55,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-       // toSettingsBut.setOnClickListener(this);
-       // toInstructions.setOnClickListener(this);
+
     }
     public void openGame(){
         Intent intent = new Intent(this, Game.class);
@@ -73,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
     public void openInstructions(){
         Intent intent = new Intent(this, Instructions.class);
         startActivity(intent);
+
     }
     /**
      * A native method that is implemented by the 'native-lib' native library,
