@@ -10,11 +10,12 @@
     <Button
         android:id="@+id/buttonMainInstruct"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="92dp"
         android:layout_marginStart="106dp"
         android:layout_marginEnd="106dp"
-        android:layout_marginBottom="4dp"
+        android:layout_marginBottom="16dp"
         android:text="@string/emptyText2"
+        android:background="@android:color/transparent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -22,10 +23,11 @@
     <Button
         android:id="@+id/gameButInstructions"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="91dp"
         android:layout_marginStart="106dp"
         android:layout_marginEnd="106dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginBottom="8dp"
+        android:background="@android:color/transparent"
         android:text="@string/emptyText1"
         app:layout_constraintBottom_toTopOf="@+id/buttonMainInstruct"
         app:layout_constraintEnd_toEndOf="parent"
