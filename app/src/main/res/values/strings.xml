@@ -7,4 +7,6 @@
     <string name="emptyText2" />
     <string name="emptyText3" />
     <string name="emptyText4" />
+    <string name="volumeoff">VolumeOff</string>
+    <string name="volumeon">VolumeOn</string>
 </resources>
