@@ -1,12 +1,11 @@
 Last edited: 12/09/2018
 Markitability for project.
 *****************************************************
-// Concise clear description targeted towards the class of potential users
+Who wants to use our app, and why:
 Dynamic variable is a mathbased game meant to be utilized by both students wanting to develop their skills, parents teaching their kids various math skills, and competitive nerds looking to best their friends!
 
-// Have info on how project design conforms with potential use of the project
+How project design aids in usability:
 When designing the project, we wanted to ensure that the visual design was simplistic and clear, as to not distract from the intended use of tha game. Additionally, because one particular market segment we are trying to reach is groups of math minded competitive friends, the included leaderboard is a necessary feature. 
 
-// Potentially upload the project to google play store for extra credit
 
 
